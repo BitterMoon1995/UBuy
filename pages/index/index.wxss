@@ -1,0 +1,6 @@
+/**index.wxss**/
+/*使用颜色变量*/
+view{
+/*    color:var(--themeColor);*/
+
+}
